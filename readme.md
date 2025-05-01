@@ -29,6 +29,7 @@ All environments were trained using PPO on a CPU, with the exception of Car Raci
 ### Car Racing
 
 The input to the network is the last 3 game frames of size 96x96x3. By episode ~70, The agent is able to follow the track but skids at sharp turns. 
+
 <img src="./gifs\car_racing_episode_70.gif" alt="Lunar Lander" style="max-width: 720px;">
 
 ### Humanoid
