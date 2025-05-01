@@ -1,3 +1,9 @@
-torch
 gymnasium[box2d]
+stable-baselines3
+torch
 numpy
+moviepy
+gymnasium-robotics
+gymnasium[mujoco]
+imageio
+matplotlib
